@@ -2,14 +2,14 @@
 
 ## Installation
 
-`$ npm install carl --save`
+`$ npm install carl-bot --save`
 
 ## Usage
 
 Create a test file called `index.js` or `test.js` or `whatever.js`. Require CARL and add some tests:
 
 ```js
-const carl = require('carl')
+const carl = require('carl-bot')
 
 // give Carl some instructions
 const config = {

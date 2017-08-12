@@ -1,5 +1,5 @@
 {
-  "name": "carl",
+  "name": "carl-bot",
   "version": "1.0.0",
   "description": "CDN's Automatic Regression Library",
   "main": "index.js",
