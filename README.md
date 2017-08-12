@@ -34,3 +34,8 @@ carl.go()
 Run the tests with, for example:
 
 `$ node whatever.js`
+
+## Roadmap
+
+* Support version 2 URL format, using querystring paramaters
+
